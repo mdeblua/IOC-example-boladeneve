@@ -1,0 +1,12 @@
+C:\projetos\angularnetcore\IOC.lib\obj\Debug\netstandard2.0\IOC.lib.csprojAssemblyReference.cache
+C:\projetos\angularnetcore\IOC.lib\obj\Debug\netstandard2.0\IOC.lib.csproj.CoreCompileInputs.cache
+C:\projetos\angularnetcore\IOC.lib\obj\Debug\netstandard2.0\IOC.lib.AssemblyInfoInputs.cache
+C:\projetos\angularnetcore\IOC.lib\obj\Debug\netstandard2.0\IOC.lib.AssemblyInfo.cs
+C:\projetos\angularnetcore\IOC.lib\bin\Debug\netstandard2.0\IOC.lib.deps.json
+C:\projetos\angularnetcore\IOC.lib\bin\Debug\netstandard2.0\IOC.lib.dll
+C:\projetos\angularnetcore\IOC.lib\bin\Debug\netstandard2.0\IOC.lib.pdb
+C:\projetos\angularnetcore\IOC.lib\bin\Debug\netstandard2.0\IOC.interface.dll
+C:\projetos\angularnetcore\IOC.lib\bin\Debug\netstandard2.0\IOC.interface.pdb
+C:\projetos\angularnetcore\IOC.lib\obj\Debug\netstandard2.0\IOC.lib.csproj.CopyComplete
+C:\projetos\angularnetcore\IOC.lib\obj\Debug\netstandard2.0\IOC.lib.dll
+C:\projetos\angularnetcore\IOC.lib\obj\Debug\netstandard2.0\IOC.lib.pdb

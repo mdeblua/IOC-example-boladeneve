@@ -1,0 +1,9 @@
+C:\projetos\angularnetcore\IOC.Interface\bin\Debug\netstandard2.0\IOC.interface.deps.json
+C:\projetos\angularnetcore\IOC.Interface\bin\Debug\netstandard2.0\IOC.interface.dll
+C:\projetos\angularnetcore\IOC.Interface\bin\Debug\netstandard2.0\IOC.interface.pdb
+C:\projetos\angularnetcore\IOC.Interface\obj\Debug\netstandard2.0\IOC.interface.csprojAssemblyReference.cache
+C:\projetos\angularnetcore\IOC.Interface\obj\Debug\netstandard2.0\IOC.interface.csproj.CoreCompileInputs.cache
+C:\projetos\angularnetcore\IOC.Interface\obj\Debug\netstandard2.0\IOC.interface.AssemblyInfoInputs.cache
+C:\projetos\angularnetcore\IOC.Interface\obj\Debug\netstandard2.0\IOC.interface.AssemblyInfo.cs
+C:\projetos\angularnetcore\IOC.Interface\obj\Debug\netstandard2.0\IOC.interface.dll
+C:\projetos\angularnetcore\IOC.Interface\obj\Debug\netstandard2.0\IOC.interface.pdb
